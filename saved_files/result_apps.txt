@@ -1,0 +1,472 @@
+╙ёЄрэютыхээ√х яЁюуЁрьь√:
+Name                                                                    
+
+Python 3.12.3 Core Interpreter (64-bit)                                 
+
+Python 3.12.3 Tcl/Tk Support (64-bit)                                   
+
+Python 3.12.3 Standard Library (64-bit)                                 
+
+Python 3.12.3 pip Bootstrap (64-bit)                                    
+
+Python 3.12.3 Development Libraries (64-bit)                            
+
+Python 3.12.3 Executables (64-bit)                                      
+
+Python 3.12.3 Test Suite (64-bit)                                       
+
+Python 3.12.3 Documentation (64-bit)                                    
+
+Python 3.12.3 Add to Path (64-bit)                                      
+
+Office 16 Click-to-Run Extensibility Component                          
+
+Office 16 Click-to-Run Localization Component                           
+
+Office 16 Click-to-Run Licensing Component                              
+
+Windows SDK Desktop Headers x64                                         
+
+Windows App Certification Kit Native Components                         
+
+MySQL Workbench 8.0 CE                                                  
+
+Windows SDK for Windows Store Apps Metadata                             
+
+КриптоПро CSP                                                  
+
+Windows Subsystem for Linux                                             
+
+Intel(R) Management Engine Driver                                       
+
+WinRT Intellisense Desktop - Other Languages                            
+
+Windows SDK for Windows Store Apps Contracts                            
+
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.40.33810             
+
+Windows SDK Desktop Headers arm                                         
+
+Microsoft .NET AppHost Pack - 8.0.3 (x64)                               
+
+Microsoft.NET.Sdk.Maui.Manifest-8.0.100 (x64)                           
+
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.50727.4053 False    
+
+Поддержка iPod                                                 
+
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148 False    
+
+Zeal 0.6.1                                                              
+
+Windows SDK                                                             
+
+Windows SDK Facade Windows WinMD Versioned                              
+
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660 False        
+
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022 False         
+
+Microsoft Visual C++ 2010 Redistributable - x64 10.0.40219              
+
+Microsoft Visual C++ 2005 Redistributable - x64 8.0.61000               
+
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664              
+
+Microsoft .NET 8.0 Templates 8.0.203 (x64)                              
+
+Microsoft Windows Desktop Targeting Pack - 8.0.3 (x64)                  
+
+Microsoft Visual C++ 2010 Redistributable - x86 10.0.40219              
+
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022.0 False       
+
+WinRT Intellisense Desktop - en-us                                      
+
+Microsoft Visual Studio Setup Configuration                             
+
+MongoDB 7.0.11 2008R2Plus SSL (64 bit)                                  
+
+Windows IoT Extension SDK Contracts                                     
+
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005 False        
+
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005 False     
+
+Windows SDK Desktop Tools x64                                           
+
+Windows App Certification Kit SupportedApiList x86                      
+
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022.0 False       
+
+Microsoft .NET Host - 8.0.3 (x64)                                       
+
+Microsoft VC++ redistributables repacked.                               
+
+Microsoft VC++ redistributables repacked.                               
+
+Windows SDK Desktop Libs x86                                            
+
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022.218 False     
+
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.50727 False        
+
+vs_filehandler_amd64                                                    
+
+vs_minshellsharedmsi                                                    
+
+Microsoft Windows Desktop Runtime - 8.0.3 (x64)                         
+
+WinRT Intellisense PPI - en-us                                          
+
+Microsoft Visual C++ 2022 X64 Debug Runtime - 14.40.33810               
+
+Windows SDK Desktop Headers x86                                         
+
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4048 False    
+
+Universal CRT Tools x86                                                 
+
+Node.js                                                                 
+
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.50727 False     
+
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.60610 False        
+
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.59193 False         
+
+Windows SDK DirectX x64 Remote                                          
+
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40649 False        
+
+vs_githubprotocolhandlermsi                                             
+
+vs_filehandler_x86                                                      
+
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.57103 False         
+
+Intel(R) Chipset Device Software                                        
+
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.60610 False        
+
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664              
+
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40660 False     
+
+Windows SDK Desktop Tools arm64                                         
+
+MyOffice Standard. Home Edition                                         
+
+Microsoft Visual C++ 2005 Redistributable - x64 8.0.57102 False         
+
+Go Programming Language amd64 go1.21.6                                  
+
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40649 False        
+
+Microsoft Visual C++ 2005 Redistributable - x64 8.0.51011 False         
+
+Windows SDK ARM Desktop Tools                                           
+
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.51106 False     
+
+Java 8 Update 51 (64-bit)                                               
+
+Windows Team Extension SDK                                              
+
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40649 False     
+
+Universal CRT Extension SDK                                             
+
+Intel(R) Management Engine Components                                   
+
+Windows Mobile Extension SDK                                            
+
+WinAppDeploy                                                            
+
+Windows SDK Modern Non-Versioned Developer Tools                        
+
+Windows SDK for Windows Store Apps                                      
+
+Microsoft.NET.Sdk.iOS.Manifest-8.0.100 (x64)                            
+
+Windows SDK Desktop Libs arm                                            
+
+Intel(R) Serial IO                                                      
+
+WinRT Intellisense UAP - Other Languages                                
+
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.60610 False     
+
+Microsoft .NET Targeting Pack - 8.0.3 (x64)                             
+
+Windows Team Extension SDK Contracts                                    
+
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.0 False       
+
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005 False     
+
+Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (x64)                         
+
+Java(TM) SE Development Kit 22.0.1 (64-bit)                             
+
+WinRT Intellisense Mobile - en-us                                       
+
+Intel(R) C++ Redistributables on Intel(R) 64                            
+
+Windows SDK DirectX x86 Remote                                          
+
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161          
+
+Microsoft .NET Host FX Resolver - 9.0.0 Preview 2 (x64)                 
+
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.51106 False     
+
+WinRT Intellisense IoT - en-us                                          
+
+Windows SDK Desktop Tools x86                                           
+
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.5570 False    
+
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161          
+
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005 False        
+
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022 False         
+
+Windows SDK Desktop Libs x64                                            
+
+Intel(R) OEM Extension                                                  
+
+Windows SDK for Windows Store Apps Tools                                
+
+vs_vswebprotocolselectormsi                                             
+
+Проверка работоспособности ПК Windows        
+
+Microsoft.NET.Sdk.macOS.Manifest-8.0.100 (x64)                          
+
+Microsoft Visual C++ 2005 Redistributable - x64 8.0.58298 False         
+
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030           
+
+Windows Desktop Extension SDK Contracts                                 
+
+Microsoft .NET Toolset 8.0.203 (x64)                                    
+
+Microsoft Visual C++ 2005 Redistributable - x64 8.0.56336 False         
+
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660 False     
+
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.60610 False     
+
+Universal CRT Redistributable                                           
+
+Apple Mobile Device Support                                             
+
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729 False         
+
+Universal General MIDI DLS Extension SDK                                
+
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.40.33810          
+
+Windows Desktop Extension SDK                                           
+
+Bonjour                                                                 
+
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30411 False         
+
+Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)            
+
+Microsoft Visual C++ 2005 Redistributable - x64 8.0.50727.42 False      
+
+Microsoft.NET.Sdk.tvOS.Manifest-8.0.100 (x64)                           
+
+Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)                   
+
+Windows SDK for Windows Store Apps DirectX x86 Remote                   
+
+SDK ARM Additions                                                       
+
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4048 False    
+
+Microsoft .NET Host FX Resolver - 8.0.3 (x64)                           
+
+Microsoft .NET AppHost Pack - 8.0.3 (x64_x86)                           
+
+Universal CRT Tools x64                                                 
+
+Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)                
+
+                                                                        
+
+MSI Development Tools                                                   
+
+Python Launcher                                                         
+
+                                                                        
+
+Microsoft Visual C++ 2005 Redistributable - x64 8.0.59192 False         
+
+Microsoft.NET.Sdk.Android.Manifest-8.0.100 (x64)                        
+
+Microsoft .NET Host - 9.0.0 Preview 2 (x64)                             
+
+vs_minshellx64msi                                                       
+
+Windows App Certification Kit x64                                       
+
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.5570 False    
+
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.40.33810             
+
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.58299 False         
+
+Windows SDK for Windows Store Apps Headers                              
+
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148.0 False  
+
+Microsoft ASP.NET Core 8.0.3 Targeting Pack (x64)                       
+
+Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)                   
+
+Dynamic Application Loader Host Interface Service                       
+
+Universal CRT Headers Libraries and Sources                             
+
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664           
+
+Microsoft.NET.Sdk.MacCatalyst.Manifest-8.0.100 (x64)                    
+
+Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)               
+
+Windows SDK Modern Versioned Developer Tools                            
+
+Windows SDK EULA                                                        
+
+Windows IoT Extension SDK                                               
+
+Microsoft Visual Studio Setup WMI Provider                              
+
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.56336 False         
+
+VPNSatoshi                                                              
+
+Windows Mobile Extension SDK Contracts                                  
+
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729 False         
+
+Microsoft Visual C++ 2005 Redistributable - x64 8.0.50727.4053 False    
+
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.50727 False     
+
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.50727 False        
+
+Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)                    
+
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030           
+
+Microsoft Visual C++ 2010 Redistributable - x64 10.0.30319 False        
+
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.51106 False        
+
+Update for Windows 10 for x64-based Systems (KB5001716)                 
+
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.61001               
+
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030              
+
+Единый Клиент JaCarta                                       
+
+SDK ARM Redistributables                                                
+
+WinRT Intellisense IoT - Other Languages                                
+
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40660 False        
+
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148 False    
+
+Microsoft Visual C++ 2010 Redistributable - x86 10.0.30319 False        
+
+Microsoft .NET Runtime - 9.0.0 Preview 2 (x64)                          
+
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664           
+
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17 False      
+
+WinRT Intellisense UAP - en-us                                          
+
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40649 False     
+
+Kits Configuration Installer                                            
+
+Windows SDK Redistributables                                            
+
+Windows SDK for Windows Store Apps Libs                                 
+
+Windows SDK Signing Tools                                               
+
+vs_FileTracker_Singleton                                                
+
+Windows SDK Desktop Libs arm64                                          
+
+Microsoft ASP.NET Core 8.0.3 Shared Framework (x64)                     
+
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30411 False         
+
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030              
+
+vs_CoreEditorFonts                                                      
+
+Windows SDK Desktop Headers arm64                                       
+
+Microsoft Update Health Tools                                           
+
+Intel(R) Icls                                                           
+
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148.0 False  
+
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.51011 False         
+
+Microsoft .NET Runtime - 8.0.3 (x64)                                    
+
+Microsoft .NET AppHost Pack - 8.0.3 (x64_arm64)                         
+
+WinRT Intellisense PPI - Other Languages                                
+
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17 False      
+
+Intel(R) LMS                                                            
+
+Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)               
+
+Windows SDK for Windows Store Managed Apps Libs                         
+
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.0 False       
+
+Application Verifier x64 External Package                               
+
+Java Auto Updater                                                       
+
+Windows SDK AddOn                                                       
+
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.40.33810          
+
+vs_minshellmsires                                                       
+
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.51106 False        
+
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.50727.42 False      
+
+Microsoft Visual C++ 2022 X86 Debug Runtime - 14.40.33810               
+
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022.218 False     
+
+RuDesktop                                                               
+
+vcpp_crt.redist.clickonce                                               
+
+Intel(R) Management Engine Components                                   
+
+
+
+
